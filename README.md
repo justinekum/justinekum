@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 new to github
+- 🌱 I’m currently learning about developmental psychopathology and the 🧠
+
 <!--
 **justinekum/justinekum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
